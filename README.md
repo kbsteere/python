@@ -1,4 +1,4 @@
-# python
-Python exercises to add to my repertoire
+# Battleship game
+Simple battleship game
 
-This repo is meant to track projects and excercises that will allow me to evolve as a computer programmer. 
+Still work in progress...
